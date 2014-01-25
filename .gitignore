@@ -1,13 +1,8 @@
-# http://www.gnu.org/software/automake
+# fontforge backup and .sfd  files
 
-Makefile.in
+*.sfd
 
-# http://www.gnu.org/software/autoconf
+# OSX stuff
 
-/autom4te.cache
-/aclocal.m4
-/compile
-/configure
-/depcomp
-/install-sh
-/missing
+.DS*
+
